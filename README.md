@@ -10,10 +10,9 @@ A motivated learner focused on AI, Machine Learning and Deep Learning. I'm impro
 [![Muhammad Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umer-prog&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/Umer-prog)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-prog&layout=compact&theme=vision-friendly-dark)](https://github.com/Umer-prog)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Umer-prog&theme=dark)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Umer-prog&theme=onedark&column=7&no-frame=true)](https://github.com/Umer-prog)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Umer-prog&theme=dark)](https://streak-stats.demolab.com/?user=Umer-prog&theme=dark)
 
-![activity graph](https://activity-graph.herokuapp.com/graph?username=Umer-prog&theme=react-dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Umer-prog&theme=onedark&column=7&row=1)](https://github.com/Umer-prog)
 
 ---
 
@@ -40,12 +39,3 @@ A motivated learner focused on AI, Machine Learning and Deep Learning. I'm impro
 - Advanced machine learning workflows and model evaluation
 - Deep learning architectures and transfer learning
 - Model deployment & basic MLOps (containers, CI/CD for ML)
-
-
-Which would you prefer? If you want me to push the change, I'll create a branch named `update/readme-stats` and open a PR — confirm and I'll proceed.
-
-
-
-
-
-
