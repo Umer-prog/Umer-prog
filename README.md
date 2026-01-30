@@ -41,35 +41,6 @@ A motivated learner focused on AI, Machine Learning and Deep Learning. I'm impro
 - Deep learning architectures and transfer learning
 - Model deployment & basic MLOps (containers, CI/CD for ML)
 
----
-
-## Projects (suggested)
-Pin your top projects to your GitHub profile and list them here. Example:
-- Project A — short description + tech used
-- Project B — short description + tech used
-(If you want, I can auto-generate a Projects section listing your top repos.)
-
----
-
-## How to reach me
-- GitHub: [Umer-prog](https://github.com/Umer-prog)
-- Email: add your email here
-- LinkedIn / Twitter: add profile links
-
----
-
-## Tips to improve this README further
-1. Pin 3–6 repositories on your GitHub profile (these show on your profile and attract visitors).
-2. Add a short screenshot or GIF for one featured project.
-3. Add WakaTime or custom contribution/activity badges if you use those services.
-4. Add a short "Goals / Roadmap" list (e.g., "Complete X course", "Build Y project").
-5. Include contact/social links you want visible.
-
----
-
-If you'd like, I can:
-- Create a new branch and push this README update, then open a pull request for you.
-- Or just provide the raw Markdown file for you to paste into README.md.
 
 Which would you prefer? If you want me to push the change, I'll create a branch named `update/readme-stats` and open a PR — confirm and I'll proceed.
 
