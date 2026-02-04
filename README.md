@@ -6,11 +6,42 @@ A motivated learner focused on AI, Machine Learning and Deep Learning. I'm impro
 
 ---
 
+
+
+
+
 <!-- Stats & Trophies -->
 [![Muhammad Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umer-prog&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/Umer-prog)
+
+
+
+
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-prog&layout=compact&theme=vision-friendly-dark)](https://github.com/Umer-prog)
 
+
+
+
+
+
+
+
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Umer-prog&theme=dark)](https://streak-stats.demolab.com/?user=Umer-prog&theme=dark)
+
+
+
+
+
+
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Umer-prog&theme=onedark&column=7&row=1)](https://github.com/Umer-prog)
 
